@@ -53,8 +53,6 @@ class student{
 
     // void addsubject(string subjectname, int credit, float gradepoint);
 
-    
-
 
 };
 
